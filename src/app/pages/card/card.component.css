@@ -1,0 +1,13 @@
+.fa-heart {
+    color :palevioletred;
+    cursor : pointer;
+}
+
+.title-color{
+    color: ghostwhite;
+    font-weight: 600;
+}
+.search-dec{
+    width: 400px;
+    height: 30px;
+}
